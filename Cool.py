@@ -149,7 +149,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ⸙ 𝐌𝐫٭𝐂𝐨⃕𝐨𝐥 ⸙ (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by ⸙ 𝐌𝐫٭𝐂𝐨⃕𝐨𝐥 ⸙ (⸙ 𝐀𝐟𝐳𝐚⃕𝐚𝐥٭𝐊𝐡⃕𝐚𝐧 ⸙)${WHITE}
 	EOF
 }
 
